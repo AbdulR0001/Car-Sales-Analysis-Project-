@@ -7,9 +7,9 @@ This project analyzes large-scale car sales data to uncover sales trends, custom
 ## Objectives
 
 - Analyze car sales performance
-10
+
 - Identify top-selling car brands
-11
+  
 - Evaluate revenue trends
 12
 - Explore customer demographics
@@ -295,23 +295,10 @@ python analysis.py
 - Predictive Analytics
 153
 - Power BI Integration
-154
- 
-155
+
 ## Resume Description
-156
- 
-157
+
 Developed a Car Sales Analytics solution using Python, Pandas, NumPy, and Matplotlib to process and analyze large-scale sales data. Performed data cleaning, trend analysis, customer segmentation, and business reporting while generating visual insights to support decision-making.
-158
- 
-159
 ## Author
-160
- 
-161
 **Abdul Rehman**
-162
- 
-163
 GitHub: https://github.com/AbdulR0001
