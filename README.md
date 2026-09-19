@@ -1,15 +1,11 @@
 # 🚗 Car Sales Analysis Using Python, Pandas, NumPy, and Matplotlib
 
 ## Overview
-5
+
 This project analyzes large-scale car sales data to uncover sales trends, customer insights, and business performance metrics. Using Python, Pandas, NumPy, and Matplotlib, the project performs data cleaning, exploratory data analysis, and visualization to support data-driven business decisions.
-6
- 
-7
+
 ## Objectives
-8
- 
-9
+
 - Analyze car sales performance
 10
 - Identify top-selling car brands
